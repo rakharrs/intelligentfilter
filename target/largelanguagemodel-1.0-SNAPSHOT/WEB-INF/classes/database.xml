@@ -1,0 +1,10 @@
+<database>
+    <connection>
+        <unit-name>db</unit-name>
+        <driver>org.postgresql.Driver</driver>
+        <url>jdbc:postgresql://127.0.0.1:5432</url>
+        <dbname>intelligentfilter</dbname>
+        <user>rakharrs</user>
+        <password>pixel</password>
+    </connection>
+</database>
